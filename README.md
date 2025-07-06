@@ -19,7 +19,7 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 
 ## Capture d'écran de la page d’accueil
 
-![Page d'accueil](./src/assets/capture.png)
+![Page d'accueil](./src/assets/hotel.png)
 
 
 
