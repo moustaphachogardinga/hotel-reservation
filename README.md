@@ -14,11 +14,11 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 - Utilisation des icônes Lucide React
 
 ##   Capture d'écran de la page d’accueil
-![Page d'accueil](./src/assets/capture.png)
+![Page d'accueil](./src/assets/accuiel.png)
 
 ## Technologies utilisées
 
- # Outils & Frameworks
+ Outils & Frameworks
 .React – Librairie pour interfaces interactives
 
 .TypeScript – Langage avec typage statique
@@ -27,7 +27,7 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 
 .Tailwind CSS – Framework CSS utilitaire
 
-# Design & UI
+## Design & UI
 .Lucide React – Icônes SVG modernes
 
 .Landingfolio – Exemples de landing pages
@@ -36,33 +36,33 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 
 .TailwindReady – UI kits gratuits
 
-# Installation & lancement
-# 1. Cloner le projet
+## Installation & lancement
+ 1.Cloner le projet
 git clone https://github.com/moustaphachogardinga/hotel-reservation.git
+
+ 2.Accéder au dossier
 cd hotel-reservation
-# 2. Accéder au dossier
-cd hotel-reservation
-# 3.Installer les dépendances
+ 3.Installer les dépendances
 npm install
-# 4.Lancer le serveur de développement
+ 4.Lancer le serveur de développement
 npm run dev
 - L’application démarre sans erreur à http://localhost:5173
 ## Structure du projet
+
 src/
+├── assets/               # 🔹 Images, logos
+│   ├── logo.png
+│   ├── hero-bg.jpg
 ├── components/
-# Composants réutilisables
-│ ├── Header.tsx
-# Navigation principale
-│ ├── Hero.tsx
-# Section héro
-│ ├── Features.tsx # Section fonctionnalités
-│ ├── Sidebar.tsx # Barre latérale
-│ └── Footer.tsx # Pied de page
+│   ├── Header.tsx
+│   ├── Hero.tsx
+│   ├── Features.tsx
+│   ├── Footer.tsx
+│   └── Sidebar.tsx
 ├── layouts/
-# Layouts de page
-│ ├── MainLayout.tsx # Layout principal (Header + Footer)
-│ └── SidebarLayout.tsx # Layout avec sidebar
+│   ├── MainLayout.tsx
+│   └── SidebarLayout.tsx
 ├── pages/
-# Pages de l'application│ └── Dashboard.tsx # Page tableau de bord
-└── App.tsx
-# Composant racine
+│   └── Dashboard.tsx
+├── App.tsx
+└── main.tsx
