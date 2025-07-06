@@ -1,4 +1,4 @@
-#  Site de Réservation d'Hôtels - Frontend
+#  Page d'accuiel de Réservation d'Hôtels - Frontend
 
 ##  Description
 
@@ -19,7 +19,7 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 
 ## Capture d'écran de la page d’accueil
 
-![Page d'accueil](./src/assets/hotel.png)
+![Page d'accueil](./src/assets/capture.png)
 
 
 
