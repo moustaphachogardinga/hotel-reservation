@@ -1,43 +1,51 @@
-# Site de Réservation d'Hôtels - Frontend
+#  Site de Réservation d'Hôtels - Frontend
 
-## Description
+##  Description
 
-Application web moderne pour la réservation d'hôtels, développée avec React, TypeScript, Vite et Tailwind CSS.  
+Application web moderne pour la réservation d'hôtels, développée avec **React**, **TypeScript**, **Vite** et **Tailwind CSS**.  
 Le projet est organisé selon une architecture modulaire avec une séparation claire des responsabilités.
 
-## Fonctionnalités principales
+---
+
+##  Fonctionnalités principales
 
 - Page d'accueil dynamique avec sections Hero et Features
 - Tableau de bord utilisateur avec sidebar et widgets statistiques
 - Design responsive et accessible mobile-first
 - Composants réutilisables et typés avec TypeScript
-- Utilisation des icônes Lucide React
+- Utilisation des icônes **Lucide React**
 
-##   Capture d'écran de la page d’accueil
+---
+
+## Capture d'écran de la page d’accueil
+
 ![Page d'accueil](./src/assets/accuiel.png)
 
-## Technologies utilisées
+---
 
- Outils & Frameworks
-.React – Librairie pour interfaces interactives
+## 🛠️ Technologies utilisées
 
-.TypeScript – Langage avec typage statique
+### Outils & Frameworks
 
-.Vite – Bundler rapide moderne
+- **React** – Librairie pour interfaces interactives  
+- **TypeScript** – Langage avec typage statique  
+- **Vite** – Bundler rapide moderne  
+- **Tailwind CSS** – Framework CSS utilitaire  
 
-.Tailwind CSS – Framework CSS utilitaire
+### Design & UI
 
-## Design & UI
-.Lucide React – Icônes SVG modernes
+- **Lucide React** – Icônes SVG modernes  
+- **Landingfolio** – Exemples de landing pages  
+- **Tuk.dev** – Composants Tailwind CSS  
+- **TailwindReady** – UI kits gratuits  
 
-.Landingfolio – Exemples de landing pages
+---
 
-.Tuk.dev – Composants Tailwind CSS
+## 🚀 Installation & lancement
 
-.TailwindReady – UI kits gratuits
+1. **Cloner le projet**
 
-## Installation & lancement
- 1.Cloner le projet
+```bash
 git clone https://github.com/moustaphachogardinga/hotel-reservation.git
 
  2.Accéder au dossier
@@ -50,9 +58,10 @@ npm run dev
 ## Structure du projet
 
 src/
-├── assets/               # 🔹 Images, logos
+├── assets/               # Images, logos
 │   ├── logo.png
 │   ├── hero-bg.jpg
+│   └── accuiel.png       # Capture d’écran
 ├── components/
 │   ├── Header.tsx
 │   ├── Hero.tsx
