@@ -19,11 +19,11 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 
 ## Capture d'écran de la page d’accueil
 
-![Page d'accueil](./src/assets/accuiel.png)
+![Page d'accueil](./src/assets/profil.png)
 
----
 
-## 🛠️ Technologies utilisées
+
+## Technologies utilisées
 
 ### Outils & Frameworks
 
@@ -41,7 +41,7 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 
 ---
 
-## 🚀 Installation & lancement
+## Installation & lancement
 
 1. **Cloner le projet**
 
