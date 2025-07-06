@@ -19,7 +19,7 @@ Le projet est organisé selon une architecture modulaire avec une séparation cl
 
 ## Capture d'écran de la page d’accueil
 
-![alt text](<Capture d’écran du 2025-07-06 04-11-30.png>)
+![Page d'accueil](./src/assets/capture.png)
 
 
 
